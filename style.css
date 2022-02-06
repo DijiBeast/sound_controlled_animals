@@ -1,0 +1,39 @@
+body 
+{
+    background-color: darkred;
+    font-family: Roboto;
+    color: white;
+}
+
+.header_div
+{
+    background-color: brown;
+    font-size: 20px;
+}
+
+h2
+{
+    font-size: 40px;
+}
+
+.btn-warning
+{
+    margin-top: 30px;
+    color: red;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.copy_right_footer
+{
+    background-color: red;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    color: yellow;
+    bottom: 0;
+    font-size: 20px;
+    line-height: 40px;
+    text-shadow: 5px 5px 5px green;
+    font-family: 'Merriweather', serif;
+}
